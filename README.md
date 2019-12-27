@@ -15,6 +15,10 @@ You will not need to install any software on your local computer.  Instead:
 
 If possible, please bring a laptop to class to interactively discuss the material.
 
+## Teaching Assistant
+- Sev Hou (sevhou1989@gmail.com)
+- Office Hours: 1-2pm Mondays, Location TBA
+
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
 
