@@ -33,4 +33,3 @@ The [final project](final_project.md) is open ended. See [previous projects](htt
 - [Section 2 (Jesse Perla and Paul Schrimpf)](schedule_2.md)
 
 All problem sets are to be sent as clean, *executed* `.ipynb` notebooks on Canvas.
-Links to the problem sets: http://preview.datascience.quantecon.org.s3-website-ap-southeast-2.amazonaws.com/problem_sets/
