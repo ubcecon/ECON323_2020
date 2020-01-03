@@ -14,7 +14,7 @@
 12. **February 12th** - 
 13. **February 17th/19th** - SPRING BREAK
 14. **February 24th** - 
-15. **February 26th** - (Paul takes over)
+15. **February 26th** - 
 16. **March 2nd** - 
 17. **March 4th** - 
 18. **March 9th** - 
