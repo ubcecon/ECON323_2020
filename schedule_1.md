@@ -1,8 +1,8 @@
 
 ## Lectures and Notebooks
 1. **January 6th** - [Introduction](https://datascience.quantecon.org/introduction/) and [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
-2. **January 8th** - [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) and [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html)
-3. **January 13th** - 
+2. **January 8th** - **(bring your laptop)** Lab session on Jupyterlab, Syzygy; Edit/Save/Download notebooks; Preparations for PS1
+3. **January 13th** - [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) and [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html)
 4. **January 15th** - 
 5. **January 19th** - 
 6. **January 22nd** - 
