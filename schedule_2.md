@@ -2,9 +2,9 @@
 ## Lectures and Notebooks
 1. **January 6th** -  Overview + AV Train Wreck
 2. **January 8th** - [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and start [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
-3. **January 13th** - Lab session on Jupyter, Syzygy, etc.  in prep for PS1
-4. **January 15th** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html)
-5. **January 20th** - 
+3. **January 13th** - Finish [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
+4. **January 15th** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) and maybe start [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
+5. **January 20th** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html) and Production Function applications
 6. **January 22nd** - 
 7. **January 27th** - 
 8. **January 29th** - 
