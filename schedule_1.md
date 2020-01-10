@@ -2,8 +2,8 @@
 ## Lectures and Notebooks
 1. **January 6th** - [Introduction](https://datascience.quantecon.org/introduction/) and [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
 2. **January 8th** - "Lists" and "Tuples" in [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html); Lab session on Jupyterlab, Syzygy, Save/Download notebooks, and Prep for PS1
-3. **January 13th** - "Range", "Zip", and the rest of [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) and [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html)
-4. **January 15th** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
+3. **January 13th** - "Range", "Zip", and the rest of [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) and [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html), start [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
+4. **January 15th** - The rest of [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html); [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 5. **January 20th** - 
 6. **January 22nd** - 
 7. **January 27th** - 
