@@ -17,7 +17,7 @@ If possible, please bring a laptop to class to interactively discuss the materia
 
 ## Teaching Assistant
 - Sev Hou (sevhou1989@gmail.com)
-- Office Hours: 1-2pm Mondays, Location TBA
+- Office Hours: 1-2pm Mondays @ Iona #435
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
