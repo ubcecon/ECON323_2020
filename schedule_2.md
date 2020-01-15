@@ -4,8 +4,8 @@
 2. **January 8th** - [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and start [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
 3. **January 13th** - Finish [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
 4. ~~**January 15th** -snow day~~ 
-5. **January 20th** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) and maybe start [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
-6. **January 22nd** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html) and Production Function applications
+5. **January 20th** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) and most of [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
+6. **January 22nd** - Finish [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html) and Production Function applications, maybe start [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 7. **January 27th** - 
 8. **January 29th** - 
 9. **February 3rd** - 
@@ -30,6 +30,7 @@
 
 ## Problem Sets
 1. Due **January 15th** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html) (uploaded as **executed** ipynb through Canvas)
+2. Due **January 24rd** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html) (uploaded as **executed** ipynb through Canvas)
 
 <!--
 OLD SCHEDULE
