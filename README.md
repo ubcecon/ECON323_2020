@@ -35,5 +35,7 @@ The [final project](final_project.md) is open ended. See [previous projects](htt
 ## Lecture and Problem Set Schedule (by Section)
 - [Section 1 (Peifan Wu)](schedule_1.md) Office Hour: Tuesday 2 - 4 pm @ Iona #055
 - [Section 2 (Jesse Perla and Paul Schrimpf)](schedule_2.md)
+  - Sev: Office Hours: 1-2pm Mondays @ Iona #435
+  - Jesse: 3:30-4:30pm Wednesdays @ Iona 206
 
 All problem sets are to be sent as clean, *executed* `.ipynb` notebooks on Canvas.
