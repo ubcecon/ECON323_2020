@@ -5,8 +5,8 @@
 3. **January 13th** - "Range", "Zip", "Enumerate" and the rest of [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) and [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html)
 4. ~~**January 15th** - Snowday. Classes are cancelled.~~
 5. **January 20th** - PS1 review; [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html);
-6. **January 22nd** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html) and [Plotting](https://datascience.quantecon.org/scientific/plotting.html)
-7. **January 27th** - 
+6. **January 22nd** - Control flow revisited; [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html); briefly on [Plotting](https://datascience.quantecon.org/scientific/plotting.html)
+7. **January 27th** - [Plotting](https://datascience.quantecon.org/scientific/plotting.html) and [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 8. **January 29th** - 
 9. **February 3rd** - 
 10. **February 5th** - 
