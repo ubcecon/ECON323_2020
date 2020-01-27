@@ -6,7 +6,7 @@
 4. ~~**January 15th** - Snowday. Classes are cancelled.~~
 5. **January 20th** - PS1 review; [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html);
 6. **January 22nd** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) revisited; [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html); briefly on [Plotting](https://datascience.quantecon.org/scientific/plotting.html)
-7. **January 27th** - [Plotting](https://datascience.quantecon.org/scientific/plotting.html) and [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+7. **January 27th** - PS2 review; [Plotting](https://datascience.quantecon.org/scientific/plotting.html) and [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 8. **January 29th** - 
 9. **February 3rd** - 
 10. **February 5th** - 
