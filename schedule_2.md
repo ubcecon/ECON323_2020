@@ -5,9 +5,9 @@
 3. **January 13th** - Finish [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
 4. ~~**January 15th** -snow day~~ 
 5. **January 20th** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) and most of [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
-6. **January 22nd** - Finish [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html) and Production Function applications, maybe start [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
-7. **January 27th** - 
-8. **January 29th** - 
+6. **January 22nd** - Finish [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html) and Production Function applications, and start [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
+7. **January 27th** -  PS2 review, [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html), [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algegra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+8. **January 29th** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 9. **February 3rd** - 
 10. **February 5th** - 
 11. **February 10th** - 
