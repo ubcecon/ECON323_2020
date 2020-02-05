@@ -9,7 +9,7 @@
 7. **January 27th** - PS2 review; [Plotting](https://datascience.quantecon.org/scientific/plotting.html) and [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 8. **January 29th** - The rest of [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) starting from "matrix", [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 9. **February 3rd** - Finishing [Randomness](https://datascience.quantecon.org/scientific/randomness.html), [Optimization](https://datascience.quantecon.org/scientific/optimization.html), start [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html)
-10. **February 5th** - The rest of [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and more...
+10. **February 5th** - The rest of [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
 11. **February 10th** - 
 12. **February 12th** - 
 13. **February 17th/19th** - SPRING BREAK
