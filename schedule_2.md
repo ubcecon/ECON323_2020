@@ -8,8 +8,8 @@
 6. **January 22nd** - Finish [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html) and Production Function applications, and start [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 7. **January 27th** -  PS2 review, [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html), [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 8. **January 29th** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
-9. **February 3rd** - 
-10. **February 5th** - 
+9. **February 3rd** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
+10. **February 5th** - [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and start [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
 11. **February 10th** - 
 12. **February 12th** - 
 13. **February 17th/19th** - SPRING BREAK
