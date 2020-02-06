@@ -30,9 +30,9 @@
 
 ## Problem Sets
 1. Due **January 15th** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html) (uploaded as **executed** ipynb through Canvas)
-2. Due **January 24rd** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html) (uploaded as **executed** ipynb through Canvas)
-3. Due **February 4th** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html) (uploaded as **executed** ipynb through Canvas)
-
+2. Due **January 24rd** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html) 
+3. Due **February 4th** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html) 
+4. Due **February 11th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - Only quetsions 1, 3, 5, and 6
 
 <!--
 OLD SCHEDULE
