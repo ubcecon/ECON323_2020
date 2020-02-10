@@ -32,7 +32,7 @@
 1. Due **January 15th** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html)
 2. Due **January 24th** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html)
 3. Due **February 4th** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html)
-4. Due **February 11th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_3.html), only questions 1, 3, 5, 6
+4. Due **February 11th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html), only questions 1, 3, 5, 6
 <!--
 OLD SCHEDULE
 
