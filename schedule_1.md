@@ -11,7 +11,7 @@
 9. **February 3rd** - Finishing [Randomness](https://datascience.quantecon.org/scientific/randomness.html), [Optimization](https://datascience.quantecon.org/scientific/optimization.html), start [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html)
 10. **February 5th** - The rest of [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
 11. **February 10th** - Finishing [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html) (Boolean selections), and [Index](https://datascience.quantecon.org/pandas/the_index.html); quickly go through [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html) and  [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
-12. **February 12th** - PS3 review;
+12. **February 12th** - PS3 review; quickly go through [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html) and [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
 13. **February 17th/19th** - SPRING BREAK
 14. **February 24th** - 
 15. **February 26th** - 
