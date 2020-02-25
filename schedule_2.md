@@ -10,11 +10,11 @@
 8. **January 29th** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 9. **February 3rd** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 10. **February 5th** - [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and start [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
-11. **February 10th** - 
-12. **February 12th** - 
+11. **February 10th** - Quickly through [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html) and  [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
+12. **February 12th** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html)
 13. **February 17th/19th** - SPRING BREAK
-14. **February 24th** - 
-15. **February 26th** - (Paul takes over)
+14. **February 24th** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
+15. **February 26th** - (Paul takes over) - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html) and [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 16. **March 2nd** - 
 17. **March 4th** - 
 18. **March 9th** - 
