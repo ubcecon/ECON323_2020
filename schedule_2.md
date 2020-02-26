@@ -33,6 +33,7 @@
 2. Due **January 24rd** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html) 
 3. Due **February 4th** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html) 
 4. Due **February 11th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - Only quetsions 1, 3, 5, and 6
+5. Due **March 4th** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)
 
 <!--
 OLD SCHEDULE
