@@ -14,8 +14,8 @@
 12. **February 12th** - PS3 review; quickly go through [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html) and [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
 13. **February 17th/19th** - SPRING BREAK
 14. **February 24th** - [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html), [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html), and start [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
-15. **February 26th** - the rest of [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html), Maybe PS4 review; start [Regression](https://datascience.quantecon.org/applications/regression.html)
-16. **March 2nd** - PS4 review;
+15. **February 26th** - the rest of [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
+16. **March 2nd** - PS4 review; [Regression](https://datascience.quantecon.org/applications/regression.html)
 17. **March 4th** - 
 18. **March 9th** - 
 19. **March 11th** - 
