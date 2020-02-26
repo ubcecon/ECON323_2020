@@ -14,8 +14,8 @@
 12. **February 12th** - PS3 review; quickly go through [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html) and [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
 13. **February 17th/19th** - SPRING BREAK
 14. **February 24th** - [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html), [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html), and start [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
-15. **February 26th** - PS4 review; more to come...
-16. **March 2nd** - 
+15. **February 26th** - the rest of [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
+16. **March 2nd** - PS4 review;
 17. **March 4th** - 
 18. **March 9th** - 
 19. **March 11th** - 
@@ -33,6 +33,7 @@
 2. Due **January 24th** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html)
 3. Due **February 4th** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html)
 4. Due **February 11th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html), only questions 1, 3, 5, 6
+4. Due **March 4th** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)
 <!--
 OLD SCHEDULE
 
