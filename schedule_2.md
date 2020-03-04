@@ -14,10 +14,10 @@
 12. **February 12th** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html)
 13. **February 17th/19th** - SPRING BREAK
 14. **February 24th** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
-15. **February 26th** - (Paul takes over) - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html) and [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
-16. **March 2nd** - 
-17. **March 4th** - 
-18. **March 9th** - 
+15. **February 26th** - (Paul takes over) - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html)  
+16. **March 2nd** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
+17. **March 4th** - [Regression](https://datascience.quantecon.org/applications/regression.html)
+18. **March 9th** - [Regression](https://datascience.quantecon.org/applications/regression.html)
 19. **March 11th** - 
 20. **March 16th** - 
 21. **March 18th** - 
