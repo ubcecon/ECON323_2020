@@ -16,9 +16,9 @@
 14. **February 24th** - [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html), [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html), and start [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 15. **February 26th** - the rest of [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 16. **March 2nd** - PS4 review; [Regression](https://datascience.quantecon.org/applications/regression.html)
-17. **March 4th** - Random Forest and Neural Network of [Regression](https://datascience.quantecon.org/applications/regression.html); Maybe [Recidivism](https://datascience.quantecon.org/applications/recidivism.html)?
-18. **March 9th** - 
-19. **March 11th** - 
+17. **March 4th** - Random Forest and Neural Network of [Regression](https://datascience.quantecon.org/applications/regression.html)
+18. **March 9th** - [Recidivism](https://datascience.quantecon.org/applications/recidivism.html)
+19. **March 11th** - Brainstorm session for final projects
 20. **March 16th** - 
 21. **March 18th** - 
 22. **March 23th** - 
