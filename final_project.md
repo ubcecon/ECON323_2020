@@ -1,8 +1,9 @@
 # Final Project
 ## Dates
-* Final project **proposal due** on **XXX**
-  * The writeup for this can be very short (e.g. 1/2 page or whatever), just so we can all agree on whether it is acceptable.  It will not be graded.  If we think that the proposal is inappropriate, or want some clarifications, we will tell you that week
-* The final project is **due XXX**
+* Final project **proposal due** on **April 3rd**
+  * The writeup for this can be very short (e.g. 1/2 page or whatever), just so we can all agree on whether it is acceptable.  **It will not be graded.**  If we think that the proposal is inappropriate, or want some clarifications, we will tell you that week.
+  * If you decide to work in pairs, then you should say something about how work will be divided and coordinated in the project proposal.
+* The final project is **due April 20th**
 
 If you wish to submit a draft at least 1 week prior to the due date, we will get back to you within 3 days with feedback so you can make some changes.
 
@@ -11,6 +12,7 @@ We will accept a wide-range of proposals on many different topics.  The key requ
 * Something that involves data and visualization
 * Practice of coding skills with Python (or R if you wish)
 * If you can relate this to an Honours thesis/ECON490/etc. that is great.  But you cannot simply submit your thesis to us.  For example, you could take your thesis and do a nice visualization notebook to go with it.
+* Solo work is recommended while group of two is also okay. For the latter case we expect more than for a single-person project.
 
 See [previous final projects](https://datascience.quantecon.org/projects.html)
 
