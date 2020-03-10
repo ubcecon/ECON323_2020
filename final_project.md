@@ -10,9 +10,9 @@ If you wish to submit a draft at least 1 week prior to the due date, we will get
 ## Requirements
 We will accept a wide-range of proposals on many different topics.  The key requirements are that:
 * Something that involves data and visualization
-* Practice of coding skills with Python (or R if you wish)
+* Practice of coding skills with Python (or another language if appropriate and approved by us)
 * If you can relate this to an Honours thesis/ECON490/etc. that is great.  But you cannot simply submit your thesis to us.  For example, you could take your thesis and do a nice visualization notebook to go with it.
-* Solo work is recommended while group of two is also okay. For the latter case we expect more than for a single-person project.
+* Solo work is recommended while a group of two is also okay. For the latter case, grading policy changes accordingly as we expect more than for a single-person project.
 
 See [previous final projects](https://datascience.quantecon.org/projects.html)
 
