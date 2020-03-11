@@ -33,7 +33,7 @@ Grading: Weekly problem sets: 50%; Final projects: 45%; Attendance/Participation
 The [final project](final_project.md) is open ended. See [previous projects](https://datascience.quantecon.org/projects.html)
 
 ## Lecture and Problem Set Schedule (by Section)
-- [Section 1 (Peifan Wu)](schedule_1.md) Office Hour: Tuesday 2 - 4 pm @ Iona #055
+- [Section 1 (Peifan Wu)](schedule_1.md) Office Hour: 2-4 pm Tuesdays @ Iona 055
 - [Section 2 (Jesse Perla and Paul Schrimpf)](schedule_2.md)
   - Jesse: 3:30-4:30pm Wednesdays @ Iona 206
   - Paul: 3:30-4:30pm Wednesdays @ Iona 107
