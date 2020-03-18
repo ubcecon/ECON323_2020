@@ -20,7 +20,7 @@
 18. **March 9th** - [Recidivism](https://datascience.quantecon.org/applications/recidivism.html)
 19. **March 11th** - Brainstorm session for final projects
 20. **March 16th** - [Classification](https://datascience.quantecon.org/applications/classification.html), [Maps](https://datascience.quantecon.org/applications/maps.html)
-21. **March 18th** - 
+21. **March 18th** - start [Machine Learning in Economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 22. **March 23th** - 
 23. **March 25th** - 
 24. **March 30th** - 
