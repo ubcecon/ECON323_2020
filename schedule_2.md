@@ -18,14 +18,14 @@
 16. **March 2nd** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 17. **March 4th** - [Regression](https://datascience.quantecon.org/applications/regression.html)
 18. **March 9th** - [Regression](https://datascience.quantecon.org/applications/regression.html)
-19. **March 11th** - 
-20. **March 16th** - 
-21. **March 18th** - 
-22. **March 23th** - 
-23. **March 25th** - 
-24. **March 30th** - 
-25. **April 1st** - 
-26. **April 6th** - 
+19. **March 11th** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
+20. **March 16th** - [Classification](https://datascience.quantecon.org/applications/classification.html)
+21. **March 18th** - [Mapping](https://datascience.quantecon.org/applications/mapping.html), [Covid trends](https://github.com/ubcecon/ECON323_2020/blob/master/extra_notebooks/covid-trends.ipynb)
+22. **March 23th** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020/blob/master/extra_notebooks/covid-cases.ipynb) 
+23. **March 25th** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+24. **March 30th** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+25. **April 1st** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
+26. **April 6th** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 27. **April 8th** - 
 
 ## Problem Sets
@@ -35,6 +35,8 @@
 4. Due **February 11th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - Only quetsions 1, 3, 5, and 6
 5. Due **March 4th** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)
 6. Due **March 16th** - [Problem Set 6](https://datascience.quantecon.org/problem_sets/problem_set_6.html) only questions 9 & 10, and [Problem Set 7](https://datascience.quantecon.org/problem_sets/problem_set_7.html)
+7. 
+
 <!--
 OLD SCHEDULE
 
