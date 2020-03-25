@@ -22,7 +22,7 @@
 20. **March 16th** - [Classification](https://datascience.quantecon.org/applications/classification.html), [Maps](https://datascience.quantecon.org/applications/maps.html)
 21. **March 18th** - Started [Machine Learning in Economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 22. **March 23th** - Finish case study in [Machine Learning in Economics](https://datascience.quantecon.org/applications/ml_in_economics.html); [COVID-trends](https://github.com/ubcecon/ECON323_2020/blob/master/extra_notebooks/covid-trends.ipynb)
-23. **March 25th** - 
+23. **March 25th** - [COVID-trends](https://github.com/ubcecon/ECON323_2020/blob/master/extra_notebooks/covid-trends.ipynb) and [COVID-cases](https://github.com/ubcecon/ECON323_2020/blob/master/extra_notebooks/covid-cases.ipynb)
 24. **March 30th** - 
 25. **April 1st** - 
 26. **April 6th** - 
